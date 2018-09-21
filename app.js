@@ -5,4 +5,7 @@
 //const fileReader = require('./filereader');
 
 // Classes and EventEmitter Tutorials
-const classEmits = require('./classesemits');
+//const classEmits = require('./classesemits');
+
+// Server Class and Server Requests Tutorial
+const serverClass = require('./server');
